@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mech.
+## Hi, stranger on the internet 👋 I'm Mech.
 - 🌱 **Learning** Kotlin, Angular, and how to outsmart AI-driven IDEs before they replace me 🤖☠️  
 - 👯 **Looking to collaborate** with nice humans (or friendly robots).  
 - 💬 **Ask me about**:  
