@@ -1,17 +1,11 @@
 ## Hi there 👋 I'm Mech.
-- 🔭 **Currently working on** a bank *(the one with money 🏦💸)*  
 - 🌱 **Learning** Kotlin, Angular, and how to outsmart AI-driven IDEs before they replace me 🤖☠️  
 - 👯 **Looking to collaborate** with nice humans (or friendly robots).  
 - 💬 **Ask me about**:  
-  - SQL queries that *actually* work (sometimes).  
-  - Botanics (why yes, I can tell you if your plant is diying *on purpose* 🌿🔪).  
-  - Crafts, art and books but you dont wanna.
-- 📫 **How to reach me**:  
-  - Send a raven 🐦‍⬛, tag my godfairy ✨, or try `git push --force` into my DMs (just kidding, DON'T).  
-- ⚡ **Fun facts**:  
-  - Recovering workaholic (1 day sober 🎉).  
-  - My code compiles on the first try… *in my dreams*.  
-  - I can debug your code, but never center a div.
+  - SQL queries that *actually* work.  
+  - Crafts, art, plants and books (but you don't wanna).
+- 📫 **How to reach me**:- Tag my godfairy ✨, or try `git push --force` into my DMs (just kidding, DON'T).  
+- ⚡ **Fun facts**: I'm a Recovering workaholic (1 day sober 🎉).  
  
     
 ## 🌐 Socials:
